@@ -1,2 +1,3 @@
 # Bash-MultiScriptRun
-Run multiple scripts simulatenously on different servers.
+Author: Armaan Hussain <br>
+Creation Date: 16/12/2020 <br>
